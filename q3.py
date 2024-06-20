@@ -45,7 +45,6 @@ def compute_gradients_multiple(points, lines):
 #         lines -= learning_rate * grad_a, learning_rate * grad_b
 #         new_cost = total_cost(points, lines)
 #         if np.abs(cost - new_cost) < tolerance:
-#             break
 #     return lines, new_cost
 
 def gradient_descent_multiple(points, lines_init, learning_rate=0.001, max_iters=100, tolerance=1e-6):
