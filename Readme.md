@@ -1,7 +1,10 @@
 # Efficient and Fair Line Construction
 
-**Author:** DEVTech
-
+**Author:** DEVTech:
+Aditya Upadhyay(https://github.com/op2adi),
+Arpan Verma(https://github.com/ARPANVERMA001),
+Chandan Shah(https://github.com/chandan22140),
+Dev Utkarsh Pal(https://github.com/deecod-dev)
 ## Problem Statement
 
 Consider a set of \( n \) houses with coordinates given by latitude (\( x \)) and longitude (\( y \)), defined as a set \( P = \{p_1, p_2, \dots, p_n\} \). The task is to construct a gas pipeline in a straight line that serves all of them, where a straight line \( l = \{a, b\} \) is defined by a direction vector \( a \) of unit norm and a point \( b \) on the line.
